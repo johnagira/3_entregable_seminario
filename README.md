@@ -1,1 +1,3 @@
-# 3_entregable_seminario
+# 3_Entregable_seminario
+## presentado por:
+## john Alejandro Giraldo
